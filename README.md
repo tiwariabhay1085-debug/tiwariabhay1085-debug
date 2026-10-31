@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhay Tiwari
 
-### Full-Stack Developer | AI/ML Enthusiast | Computer Science Student
+### Full-Stack Developer | AI/ML Enthusiast 
 
 I’m a motivated Computer Science student passionate about **Full-Stack Development, Artificial Intelligence, and Machine Learning**.
 
