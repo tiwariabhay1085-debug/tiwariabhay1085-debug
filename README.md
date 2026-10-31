@@ -88,12 +88,12 @@ I enjoy building practical applications, exploring modern technologies, and turn
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=tiwariabhay1085-debug&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiwariabhay1085-debug&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_GITHUB_USERNAME&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717" alt="Public repository count"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftiwariabhay1085-debug&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717" alt="Public repository count"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ I enjoy building practical applications, exploring modern technologies, and turn
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=tiwariabhay1085-debug&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ I enjoy building practical applications, exploring modern technologies, and turn
 ## 🗓️ Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/tiwariabhay1085-debug">
     View my GitHub profile and contribution activity
   </a>
 </p>
