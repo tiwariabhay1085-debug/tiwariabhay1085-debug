@@ -119,7 +119,7 @@ I enjoy building practical applications, exploring modern technologies, and turn
 
 <--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiwariabhay1085-debug/tiwariabhay1085-debug/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
+  <img src="https://raw.githubusercontent.com/tiwariabhay1085-debug/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
 </p>
 -->
 
