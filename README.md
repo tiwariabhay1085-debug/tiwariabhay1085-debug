@@ -106,25 +106,6 @@ I enjoy building practical applications, exploring modern technologies, and turn
 
 ---
 
-## 🗓️ Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/tiwariabhay1085-debug">
-    View my GitHub profile and contribution activity
-  </a>
-</p>
-
-<-- Optional: Add a generated contribution snake after setting up GitHub Actions.
-     Instructions: https://github.com/Platane/snk -->
-
-<--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tiwariabhay1085-debug/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
-</p>
--->
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
