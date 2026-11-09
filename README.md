@@ -114,12 +114,12 @@ I enjoy building practical applications, exploring modern technologies, and turn
   </a>
 </p>
 
-<!-- Optional: Add a generated contribution snake after setting up GitHub Actions.
+<-- Optional: Add a generated contribution snake after setting up GitHub Actions.
      Instructions: https://github.com/Platane/snk -->
 
-<!--
+<--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
+  <img src="https://raw.githubusercontent.com/tiwariabhay1085-debug/tiwariabhay1085-debug/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation"/>
 </p>
 -->
 
