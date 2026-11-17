@@ -106,14 +106,6 @@ I enjoy building practical applications, exploring modern technologies, and turn
 
 ---
 
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
-</p>
-
----
-
 <p align="center">
   <i>💡 Keep learning. Keep building. Keep improving.</i>
 </p>
